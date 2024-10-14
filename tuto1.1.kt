@@ -21,7 +21,6 @@ fun main() {
 //
 //    println(message)
 
-
     // 2- when statement
     when (trafficLightColor) {
         "Red" -> println("Stop")
