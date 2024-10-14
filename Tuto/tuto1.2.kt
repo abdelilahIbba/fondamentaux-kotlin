@@ -1,4 +1,4 @@
-//fun main() {
+package Tuto//fun Tuto.Tuto.main() {
 //    var favoriteActor: String? = "Sandra Oh"
 //    println(favoriteActor)
 //    favoriteActor = null
@@ -10,7 +10,7 @@
 //    println(number)
 //}
 
-//fun main() {
+//fun Tuto.Tuto.main() {
 //    var favoriteActor: String = "Sandra Oh"
 //
 ////    println(favoriteActor.length)
@@ -18,7 +18,7 @@
 ////    println(favoriteActor!!.length) // kanzidoha f7alt kna mt2kdin var machi null
 //}
 
-//fun main() {
+//fun Tuto.Tuto.main() {
 //    var favoriteActor: String? = null
 //
 //    if (favoriteActor != null) {

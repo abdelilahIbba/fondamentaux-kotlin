@@ -1,3 +1,5 @@
+package Tuto
+
 fun main() {
     val trafficLightColor = "Amber"
     // 1- if statement
